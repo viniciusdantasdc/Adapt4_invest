@@ -2,6 +2,12 @@
   <h3> Uma das iniciativas da empresa <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é trazer a expertise e conhecimento de operações do mercado financeiro para pequenos e médios negócios, com objetivo de captar recurso financeiros e sustentar seu core bussines </h3>
 </h1> 
 
+<h2> Operacional </h2>
+<div> <strong>Futuros</strong> com WDO, WIN, CCM == primeiras operações diárias com meta de 0,01 a 0,03 centavos </div>
+<div> <strong>Position</strong> com AÇÕES brasileiras == systema de recomendação em desenvolvimento... </div>
+</h3>
+
+
 <h2> Requisitos </h2>
   <ol>
     <li> Máquina Local com instalação (python + VScode + MT5) </li>
