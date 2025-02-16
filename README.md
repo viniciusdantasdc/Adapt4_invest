@@ -32,7 +32,7 @@ pip freeze > requirements.txt
 <details>
      <summary> medias em python </summary>
     
-```mermaid
+```
 mme = (price1_mme_anterior) * (2/n + 1) + mme_anterior
 n   = periódos
 mme = média móvel exponencial
@@ -46,7 +46,7 @@ medias expon == .ewn
 <details>
      <summary> medias em python </summary>
     
-```mermaid
+```
 df[] = df.groupby('col').df[].pct_change()
 df[] = df.groupby('col').df[].shift(-1)
 df[] = df.groupby('data')["pontos"].rank(ascending = True (decrescente) | False (crescente)
@@ -63,5 +63,3 @@ frame.index = pd.to_datatime(frame.index)
 [maniputando series](https://www.datacamp.com/pt/tutorial/pandas-resample-asfreq)
 [GRÍFICO EM CANVA+PYTHON](https://usandopy.com/humix/video/Epl9wOYQYH2)
 ```
-
-
