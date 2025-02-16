@@ -21,6 +21,8 @@ pip insall pandas requests json MetaTrader5
 pip freeze > requirements.txt
 </h2>
 
+<h2> <a href="https://dadosabertos.bcb.gov.br/" > API BC </h2>
+
 <details>
      <summary> FLOW API SERVER<>CLIENT </summary>
     
