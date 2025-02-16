@@ -10,19 +10,32 @@
     <li> Apuração de ganhos </li>
     <li> Conta para receber (30% performace) </li>   
   </ol>  
-
-
 <h2>
-### iniciando python em terminal
 
-[config python](https://docs.github.com/pt/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-python-project-for-codespaces)
-
-pip insall pandas/matplotlib/yfinance
-
-#### registrando as bibliotecas
-
+pip insall pandas requests json MetaTrader5
 pip freeze > requirements.txt
 </h2>
+
+<details>
+     <summary> FLOW API SERVER<>CLIENT </summary>
+    
+```mermaid
+graph LR;
+máqBroker --> post_jsonOrdem;
+post_jsonOrdem --> Server_ou_Local;
+
+MáqClient--> get_jsonOrdem;
+get_jsonOrdem--> Server_ou_Local;
+Server_ou_Local --> dados_API_atual;
+dados_API_atual --> response_json;
+response_json --> MáqClient;
+MáqClient --> atualiza_DEF_Orden;
+atualiza_DEF_Orden --> send_Ordem_MT5;
+send_Ordem_MT5 --> plataforma_MT5;
+
+```
+</details>
+</details>
 
 ### coins digitais
 [bitcoin](https://www.coingecko.com/pt/api/pricing)
