@@ -3,10 +3,9 @@
 </h1> 
 
 <h2> Operacional </h2>
-<div> <strong>Futuros</strong> com WDO, WIN, CCM == primeiras operações diárias com meta de 0,01 a 0,03 centavos </div>
+<div> <strong>Futuros</strong> com WDO, WIN, CCM == primeiras operações diárias com meta de 0,01 a 0,03 centavos/dia </div>
 <div> <strong>Position</strong> com AÇÕES brasileiras == systema de recomendação em desenvolvimento... </div>
 </h3>
-
 
 <h2> Requisitos </h2>
   <ol>
