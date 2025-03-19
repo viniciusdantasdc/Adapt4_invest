@@ -35,6 +35,11 @@ login_senha_mt5 --> info_adapT4;
 info_adapT4 --> mt5_cliente;
 mt5_cliente --> conecta_mt5;
 
+conecta_mt5 --> apuração_mes;
+apuração_mes --> infor_detalhado;
+infor_detalhado --> %_pagamento_adapT4;
+infor_detalhado --> pagamento_Imposto_DARF;
+
 
 ```
 </details>
