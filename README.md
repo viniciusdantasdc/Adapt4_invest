@@ -1,10 +1,11 @@
 <h1>Adapt4_invest<p>
-  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claro no acumulo de patrimônio </h3>
+  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claro no acumulo de patrimônio. </h3>
 </h1> 
 
 <h2> Operacional </h2>
-<div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC se utilizando de operações diárias e medindo risco inerente a volatilidade do dia </div>
+<div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC se utilizando de operações diárias e medindo risco inerente a volatilidade do dia. </div>
 <div> <strong>Posições</strong> carrecagas com AÇÕES brasileiras == systema de recomendação em desenvolvimento... </div>
+<div> <strong>Opçoes</strong> modelando sistema para ser adicionado as operações. </div>
 </h3>
 
 <h2> Segurança </h2>
@@ -62,7 +63,7 @@ TERRA - Permitido operações de daytrade e position. Custo R$ 50,00;mes ao cont
 ```
 
 <details>
-     <summary> medias em python </summary>
+     <summary> xxx </summary>
     
 ```
 
