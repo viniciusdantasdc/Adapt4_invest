@@ -1,5 +1,5 @@
 <h1>Adapt4_invest<p>
-  <h3> Uma das iniciativas da empresa <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claro no acumulo de patrimônio </h3>
+  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claro no acumulo de patrimônio </h3>
 </h1> 
 
 <h2> Operacional </h2>
@@ -7,13 +7,13 @@
 <div> <strong>Posições</strong> carrecagas com AÇÕES brasileiras == systema de recomendação em desenvolvimento... </div>
 </h3>
 
-<h2> Requisitos </h2>
+<h2> Segurança </h2>
   <ol>
-    <li> Máquina Local com instalação (python + VScode + MT5) </li>
-    <li> Login e senha do cliente (plataforma contratada pelo cliente em sua corretora) </li>
-    <li> Plataforma conectada em nossa sala de operação </li>
-    <li> Repasse da performace do cliente para adapT </li>
-    <li> Cliente recebe infome do imposto a pagar </li>   
+    <li> Não acessamos sua conta corretora </li>
+    <li> Login e senha que utilizamos é da plataforma contratada pelo cliente </li>
+    <li> Utilizamos nossas estações para cada cliente </li>
+    <li> Repasse do pagamento é feito do cliente para adapT4 </li>
+    <li> Cliente recebe infome detalhado e seus tributos a pagar </li>   
   </ol>  
 <h2>
 
