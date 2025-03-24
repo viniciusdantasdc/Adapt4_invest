@@ -25,23 +25,22 @@
 ```mermaid
 graph LR;
 _ADAPT4_ --> bot_adapT4;
-bot_adapT4 --> máq_server;
-máq_server --> máq_usuário;
+bot_adapT4 --> SERVIDOR;
+SERVIDOR --> máq_usuário;
 máq_usuário --> plataforma_mt5;
-plataforma_mt5 --> conecta_mt5;
+
 
 *CLIENTE* --> conta_corretora;
-conta_corretora --> corretora;
-corretora--> contrata_mt5;
+conta_corretora --> contrata_mt5;
 contrata_mt5 --> login_senha_mt5;
 login_senha_mt5 --> info_adapT4;
 info_adapT4 --> mt5_cliente;
 mt5_cliente --> plataforma_mt5;
 
+plataforma_mt5 --> conecta_mt5;
 conecta_mt5 --> apuração_mes;
-apuração_mes --> infor_detalhado;
-infor_detalhado --> %_pagamento_adapT4;
-infor_detalhado --> pagamento_Imposto_DARF;
+apuração_mes --> %_pagamento_adapT4;
+apuração_mes --> pagamento_Imposto_DARF;
 
 
 ```
