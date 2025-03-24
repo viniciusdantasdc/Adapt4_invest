@@ -3,7 +3,7 @@
 </h1> 
 
 <h2> Operacional </h2>
-<div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC se utilizando de operações diárias e medindo risco inerente a volatilidade do dia. </div>
+<div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC, JURO se utilizando de operações diárias e medindo risco inerente a volatilidade do dia. </div>
 <div> <strong>Posições</strong> carrecagas com AÇÕES brasileiras == systema de recomendação em desenvolvimento... </div>
 <div> <strong>Opçoes</strong> modelando sistema para ser adicionado as operações. </div>
 </h3>
@@ -36,7 +36,7 @@ corretora--> contrata_mt5;
 contrata_mt5 --> login_senha_mt5;
 login_senha_mt5 --> info_adapT4;
 info_adapT4 --> mt5_cliente;
-mt5_cliente --> conecta_mt5;
+mt5_cliente --> plataforma_mt5;
 
 conecta_mt5 --> apuração_mes;
 apuração_mes --> infor_detalhado;
