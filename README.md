@@ -20,6 +20,8 @@
 
 </h2>
 
+<h2> Fluxo de Relação </h2>
+
 ```mermaid
 graph LR;
 _ADAPT4_ --> bot_adapT4;
