@@ -33,8 +33,7 @@ máq_usuário --> plataforma_mt5;
 *CLIENTE* --> conta_corretora;
 conta_corretora --> contrata_mt5;
 contrata_mt5 --> login_senha_mt5;
-login_senha_mt5 --> info_adapT4;
-info_adapT4 --> mt5_cliente;
+login_senha_mt5 --> mt5_cliente;
 mt5_cliente --> plataforma_mt5;
 
 plataforma_mt5 --> conecta_mt5;
@@ -42,6 +41,9 @@ conecta_mt5 --> apuração_mes;
 apuração_mes --> %_pagamento_adapT4;
 apuração_mes --> pagamento_Imposto_DARF;
 
+conta_corretora --> conta_corrente;
+conta_corrente --> margem_mt5;
+margem_mt5 --> conta_corrente;
 
 ```
 </details>
