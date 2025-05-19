@@ -1,5 +1,5 @@
 <h1>Adapt4_invest<p>
-  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claro no acumulo de patrimônio. </h3>
+  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claros no acúmulo de patrimônio. </h3>
 </h1> 
 
 <h2> Operacional </h2>
