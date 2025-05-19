@@ -10,11 +10,11 @@
 
 <h2> Segurança </h2>
   <ol>
-    <li> Não acessamos sua conta corretora </li>
-    <li> Login e senha que utilizamos é da plataforma contratada pelo cliente </li>
-    <li> Utilizamos nossas estações para cada cliente </li>
-    <li> Repasse do pagamento é feito do cliente para adapT4 </li>
-    <li> Cliente recebe infome detalhado e seus tributos a pagar </li>   
+    <li> Não acessamos sua conta corretora; </li>
+    <li> Login e senha que utilizamos é da plataforma contratada pelo cliente; </li>
+    <li> Utilizamos nossas estações para cada cliente; </li>
+    <li> Repasse do pagamento é feito do cliente para adapT4; </li>
+    <li> Cliente recebe infome detalhado e seus tributos a pagar. </li>   
   </ol>  
 <h2>
 
