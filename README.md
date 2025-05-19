@@ -4,8 +4,8 @@
 
 <h2> Operacional </h2>
 <div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC, JURO se utilizando de operações diárias e medindo risco inerente a volatilidade do dia. </div>
-<div> <strong>Posições</strong> em compras médias com AÇÕES brasileiras == systema de recomendação em desenvolvimento... </div>
-<div> <strong>Opçoes</strong> modelando sistema para ser adicionado as operações. </div>
+<div> <strong>Posições</strong> em compras médias com AÇÕES brasileiras == sistema de recomendação em desenvolvimento... </div>
+<div> <strong>Opçoes</strong> modelando em IA para agregar mais diversificação as operações. </div>
 </h3>
 
 <h2> Segurança </h2>
