@@ -48,6 +48,10 @@ margem_mt5 --> conta_corrente;
 ```
 </details>
 
+<img
+  src="qrcode_git_adapt4_invest.png"
+  alt="The head and torso of a dinosaur skeleton;
+          it has a large head with long sharp teeth" />
 
 
 <details>
