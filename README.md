@@ -48,12 +48,10 @@ margem_mt5 --> conta_corrente;
 ```
 </details>
 
+ ℹ️ Aponte para o QRcode e faça seu cadastro, assim que houver vagas, entreremos em contato. <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> Pré cadastro </a> → 
 <img
-  src="qrcode_git_adapt4_invest.png"
-  alt="The head and torso of a dinosaur skeleton;
-          it has a large head with long sharp teeth" />
-
-
+  src="qrcode_git.png"
+  alt="QRcode" />
 <details>
      <summary> CORRETORAS IDEAIS </summary>
     
