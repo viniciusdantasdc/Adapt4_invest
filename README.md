@@ -10,17 +10,17 @@
 
 <h2> Segurança </h2>
   <ol>
-    <li> Não acessamos sua conta corretora; </li>
+    <li> Não acessamos a sua conta corretora; </li>
     <li> Login e senha que utilizamos é da plataforma contratada pelo cliente; </li>
-    <li> Utilizamos nossas estações para cada cliente; </li>
+    <li> Utilizamos as nossas estações para cada cliente; </li>
     <li> Repasse do pagamento é feito do cliente para adapT4; </li>
-    <li> Cliente recebe infome detalhado e seus tributos a pagar. </li>   
+    <li> Cliente recebe informe detalhado dos seus tributos a pagar. </li>   
   </ol>  
 <h2>
 
 </h2>
 
-<h2> Fluxo de Relação </h2>
+<h2> Fluxo de Relacionamento </h2>
 
 ```mermaid
 graph LR;
