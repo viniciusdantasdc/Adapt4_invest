@@ -9,7 +9,8 @@
  ℹ️ Aponte para o QRcode e faça seu <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> Pré-cadastro </a> → 
 <img
   src="qrcode_git.png"
-  alt="QRcode" />
+  alt="QRcode" /> <h4> Em breve lançaremos...</h4>
+
 
 <h2> Operacional </h2>
 <div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC, JURO se utilizando de operações diárias e medindo risco inerente a volatilidade do dia. </div>
