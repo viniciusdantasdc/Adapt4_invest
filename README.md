@@ -1,9 +1,8 @@
-<h1> <p>
-  <img
-  src="LOGO-ADAPT4-HORIZONTAL-AZUL.png"
-  alt="QRcode" />
+<p align="center">
+<img   src="LOGO-ADAPT4-HORIZONTAL-BRANCO - reduzido.png"
+  alt="QRcode" /> </p>
   
-  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claros no acúmulo de capital. </h3>
+  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claros no acúmulo de capital. </h3>
 </h1> 
 
 <h2> Operacional </h2>
@@ -56,10 +55,8 @@ margem_mt5 --> conta_corrente;
 <img
   src="qrcode_git.png"
   alt="QRcode" />
-<details>
-     <summary> CORRETORAS IDEAIS </summary>
-    
-```
+
+# CORRETORAS {
 As 3 corretoras são as indicadas para contratar o serviço da plataforma MT5:
 
 XP - Permitido operações de daytrade e position. Custo 0/mes ao contratar.
@@ -68,6 +65,12 @@ TERRA - Permitido operações de daytrade e position. Custo R$ 50,00/mes ao cont
 
 Órama - Foi comprada recentemente pelo BTG, deixou de fornecer ambas as modalidades de operação.
 * As demais corretoras até o momento só permitem operações de daytrade. O que impacta nosso modelo operacional em determinados ativos e impacta tambem nos custo.
+
+}
+<details>
+     <summary> CORRETORAS IDEAIS </summary>
+    
+```
 
 ```
 
