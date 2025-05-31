@@ -55,8 +55,8 @@ margem_mt5 --> conta_corrente;
 <img
   src="qrcode_git.png"
   alt="QRcode" />
-
-# CORRETORAS {
+<h2> Corretoras </h2>
+# {
 As 3 corretoras são as indicadas para contratar o serviço da plataforma MT5:
 
 XP - Permitido operações de daytrade e position. Custo 0/mes ao contratar.
