@@ -2,8 +2,14 @@
 <img   src="LOGO-ADAPT4-HORIZONTAL-BRANCO - reduzido.png"
   alt="QRcode" /> </p>
   
-  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claros no acúmulo de capital. </h3>
-</h1> 
+  <h3>  Queremos aproximar pessoas a outros instrumentos de investimento e sabemos que muitos não o fazem por medo, para isso, nossa <a href="http://www.adapt4.com.br"> Empresa </a> se utiliza de instrumentos para medir e pensar sobre mercado, enquanto você continua a sua vida e se assegura que tudo esta na sua própria conta. </h3>
+  
+</h1>
+
+ ℹ️ Aponte para o QRcode e faça seu <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> Pré-cadastro </a> → 
+<img
+  src="qrcode_git.png"
+  alt="QRcode" />
 
 <h2> Operacional </h2>
 <div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC, JURO se utilizando de operações diárias e medindo risco inerente a volatilidade do dia. </div>
@@ -51,10 +57,6 @@ margem_mt5 --> conta_corrente;
 ```
 </details>
 
- ℹ️ Aponte para o QRcode e faça seu <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> Pré-cadastro </a> → 
-<img
-  src="qrcode_git.png"
-  alt="QRcode" />
 <h2> Corretoras </h2>
     Corretoras indicadas para contratar plataforma MT5:
     
