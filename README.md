@@ -1,9 +1,9 @@
-<h1>Adapt4_invest<p>
+<h1> <p>
   <img
-  src="qrcode_git.png"
+  src="LOGO-ADAPT4-HORIZONTAL-AZUL.png"
   alt="QRcode" />
   
-  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claros no acúmulo de capital </h3>
+  <h3> Uma das iniciativas da <a href="http://www.adapt4.com.br"> Empresa adapT4 </a> é disponibilizar a expertise e conhecimento de operações no mercado financeiro, com objetivos claros no acúmulo de capital. </h3>
 </h1> 
 
 <h2> Operacional </h2>
