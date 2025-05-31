@@ -56,17 +56,16 @@ margem_mt5 --> conta_corrente;
   src="qrcode_git.png"
   alt="QRcode" />
 <h2> Corretoras </h2>
-# {
-As 3 corretoras são as indicadas para contratar o serviço da plataforma MT5:
+    Corretoras indicadas para contratar plataforma MT5:
+    
+    XP - Permitido operações de daytrade e position. Custo 0/mes ao contratar.
+    RICO - Permitido operações de daytrade e position. Custo 0/mes ao contratar.
+    TERRA - Permitido operações de daytrade e position. Custo R$ 50,00/mes ao contratar.
+    
+    Órama - Foi comprada recentemente pelo BTG, deixou de fornecer ambas as modalidades de operação.
+    * As demais corretoras até o momento só permitem operações de daytrade. O que impacta nosso modelo operacional em determinados ativos e impacta tambem nos custo.
 
-XP - Permitido operações de daytrade e position. Custo 0/mes ao contratar.
-RICO - Permitido operações de daytrade e position. Custo 0/mes ao contratar.
-TERRA - Permitido operações de daytrade e position. Custo R$ 50,00/mes ao contratar.
 
-Órama - Foi comprada recentemente pelo BTG, deixou de fornecer ambas as modalidades de operação.
-* As demais corretoras até o momento só permitem operações de daytrade. O que impacta nosso modelo operacional em determinados ativos e impacta tambem nos custo.
-
-}
 <details>
      <summary> CORRETORAS IDEAIS </summary>
     
