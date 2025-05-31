@@ -51,7 +51,7 @@ margem_mt5 --> conta_corrente;
 ```
 </details>
 
- ℹ️ Aponte para o QRcode e faça seu cadastro, assim que houver vagas, entreremos em contato. <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> Pré cadastro </a> → 
+ ℹ️ Aponte para o QRcode e faça seu <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> Pré-cadastro </a> → 
 <img
   src="qrcode_git.png"
   alt="QRcode" />
