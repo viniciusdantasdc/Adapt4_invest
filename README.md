@@ -68,16 +68,16 @@ margem_mt5 --> conta_corrente;
     Órama - Foi comprada recentemente pelo BTG, deixou de fornecer ambas as modalidades de operação.
     * As demais corretoras até o momento só permitem operações de daytrade. O que impacta nosso modelo operacional em determinados ativos e impacta tambem nos custo.
 
-
 <details>
-     <summary> CORRETORAS IDEAIS </summary>
+     <summary> Como migrar margem para plataforma </summary>
     
 ```
 
 ```
+</details>
 
 <details>
-     <summary> xxx </summary>
+     <summary> Custos operacionais nas corretoras </summary>
     
 ```
 
