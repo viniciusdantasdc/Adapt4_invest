@@ -69,7 +69,7 @@ margem_mt5 --> conta_corrente;
     * As demais corretoras até o momento só permitem operações de daytrade. O que impacta nosso modelo operacional em determinados ativos e impacta tambem nos custo.
 
 <details>
-     <summary> Contratar e editar limita na plataforma </summary>
+     <summary> Contratar e Editar limite na plataforma </summary>
     
 ```
 XP
