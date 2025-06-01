@@ -69,9 +69,15 @@ margem_mt5 --> conta_corrente;
     * As demais corretoras até o momento só permitem operações de daytrade. O que impacta nosso modelo operacional em determinados ativos e impacta tambem nos custo.
 
 <details>
-     <summary> Como migrar margem para plataforma </summary>
+     <summary> Contratar e editar limita na plataforma </summary>
     
 ```
+XP
+> Em [Menu] acesse [Produtos] → Renta Variável → Plataformas e Serviços:
+  > Nas [Guias] selecione [Automação] → Escolha o card MetaTrader 5 → Click em [Contratar].  *ATENÇAO*, não escolha (simulador)
+> No card do MetaTrader 5 click em [Gerenciar] → Click Alterar limites → Indique o valor de limite → Click [Continuar]. *ATENÇAO*, você deve possuir Saldo na conta investimento!
+RICO
+> 
 
 ```
 </details>
