@@ -75,9 +75,15 @@ margem_mt5 --> conta_corrente;
 XP
 > Em [Menu] acesse [Produtos] → Renta Variável → Plataformas e Serviços:
   > Nas [Guias] selecione [Automação] → Escolha o card MetaTrader 5 → Click em [Contratar].  *ATENÇAO*, não escolha (simulador)
-> No card do MetaTrader 5 click em [Gerenciar] → Click Alterar limites → Indique o valor de limite → Click [Continuar]. *ATENÇAO*, você deve possuir Saldo na conta investimento!
+> No card do MetaTrader 5 click em [Gerenciar] → Click Alterar limites → Indique o valor de limite → Click [Continuar]. Deve exigir sua senha de assinatura!
+  > *ATENÇAO*, você deve possuir Saldo na conta investimento!
+
 RICO
-> 
+> Em [Menu] acesse [Opera na bolsa] → Click em Plataformas de Negociação:
+  > Pesquise por meta → Plataformas e Serviços → No card MetaTrader 5 → Click em [Contratar].  *ATENÇAO*, não escolha (simulador)
+> No card do MetaTrader 5 click no 3 pontos → Click Editar limits → Indique o valor de limite → Click [Continuar]. Deve exigir sua senha de assinatura!
+ > *ATENÇAO*, você deve possuir Saldo na conta investimento!
+
 
 ```
 </details>
