@@ -14,7 +14,7 @@
 <h2> Informações Acesse Whatsapp </h2>
  <a href="https://wa.me/message/632FBHL3XP6PO1"> Whatsapp </a>
 <img
-  src="qrcode_git.png"
+  src="https://github.com/viniciusdantasdc/Adapt4_invest/blob/main/WhatsApp-adapt4.jpeg"
   alt="QRcode-whatsapp" />
 
 <h2> Operacional </h2>
