@@ -2,7 +2,7 @@
 <img   src="LOGO-ADAPT4-HORIZONTAL-AZUL_reduzido.png"
   alt="QRcode" /> </p>
   
-  <h3>  Queremos aproximar pessoas a outros instrumentos de investimento e sabemos que muitos não o fazem por medo, para isso, nossa <a href="http://www.adapt4.com.br"> Empresa </a> se utiliza de instrumentos para medir e pensar sobre mercado, enquanto você continua a sua vida e se assegura que tudo esta na sua própria conta. </h3>
+  <h3>  Queremos aproximar pessoas a outros instrumentos de investimento e sabemos que muitos não o fazem por medo, para isso, nossa <a href="http://www.adapt4.com.br"> Empresa </a> se utiliza de análise para medir e métodos quantitativos, enquanto você continua a sua vida e se assegura que tudo esta na sua própria conta. </h3>
   
 </h1>
 
