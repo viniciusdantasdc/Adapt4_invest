@@ -12,7 +12,7 @@
   alt="QRcode-form" /> <h4> Em breve lançaremos...</h4>
 
 <h2> Informações Acesse Whatsapp </h2>
- <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> </a>
+ <a href="https://wa.me/message/632FBHL3XP6PO1"> Whatsapp </a>
 <img
   src="qrcode_git.png"
   alt="QRcode-whatsapp" />
