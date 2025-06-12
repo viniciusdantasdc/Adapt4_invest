@@ -13,7 +13,7 @@
 
 <h2> Informações Acesse Whatsapp </h2>
  <a href="https://wa.me/message/632FBHL3XP6PO1"> Whatsapp </a> →
-<!--  <p></p> -->
+ <p></p>
 <img
   src="https://github.com/viniciusdantasdc/Adapt4_invest/blob/main/qrcode_whatsapp_adapt4.png"
   alt="QRcode-whatsapp" />
