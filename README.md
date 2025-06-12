@@ -12,11 +12,8 @@
   alt="QRcode-form" /> <h4> Em breve lançaremos...</h4>
 
 <h2> Informações Acesse Whatsapp </h2>
- <a href="https://wa.me/message/632FBHL3XP6PO1"> Whatsapp </a> →
- <p></p>
-<img
-  src="https://github.com/viniciusdantasdc/Adapt4_invest/blob/main/qrcode_whatsapp_adapt4.png"
-  alt="QRcode-whatsapp" />
+ <a href="https://wa.me/message/632FBHL3XP6PO1"> Fale conosco pelo Whatsapp </a> →
+
 
 <h2> Operacional </h2>
 <div> <strong>Futuros</strong> com WDO, WIN, CCM, BGI, BTC, JURO se utilizando de operações diárias e medindo risco inerente a volatilidade do dia. </div>
