@@ -4,8 +4,6 @@
   
   <h3> Utilize Trader no mercado Brasileiro do jeito certo, nos operamos para vocês de forma independente. Acesse <a href="http://www.adapt4.com.br"> adapt4.com.br </a> </h3>
   
-</h1>
-
  ℹ️ Aponte para o QRcode e faça seu <a href="https://docs.google.com/forms/d/1Z5kRrNm_CM8c7UKUxviqJqp9t9NPqXJSKko6WeKixgY/preview"> Pré-cadastro </a> → 
 <img
   src="qrcode_git.png"
